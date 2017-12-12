@@ -1,0 +1,9 @@
+D:\LOGS\HotDocsFileCounter\HotDocsFileCounter\bin\Debug\HotDocsFileCounter.exe.config
+D:\LOGS\HotDocsFileCounter\HotDocsFileCounter\bin\Debug\HotDocsFileCounter.exe
+D:\LOGS\HotDocsFileCounter\HotDocsFileCounter\bin\Debug\HotDocsFileCounter.pdb
+D:\LOGS\HotDocsFileCounter\HotDocsFileCounter\obj\Debug\HotDocsFileCounter.csprojResolveAssemblyReference.cache
+D:\LOGS\HotDocsFileCounter\HotDocsFileCounter\obj\Debug\HotDocsFileCounter.exe
+D:\LOGS\HotDocsFileCounter\HotDocsFileCounter\obj\Debug\HotDocsFileCounter.pdb
+D:\HotDocsFileCounter\HotDocsFileCounter\bin\Debug\HotDocsFileCounter.exe.config
+D:\HotDocsFileCounter\HotDocsFileCounter\obj\Debug\HotDocsFileCounter.exe
+D:\HotDocsFileCounter\HotDocsFileCounter\obj\Debug\HotDocsFileCounter.pdb
